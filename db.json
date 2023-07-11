@@ -1,0 +1,34 @@
+{
+  "Student": [
+    {
+      "id": 1,
+      "name": "keerthi",
+      "city": "Hosur",
+      "mobile": 9384574635
+    },
+    {
+      "id": 2,
+      "name": "lokesh",
+      "city": "Hosur",
+      "mobile": "8870150228"
+    },
+    {
+      "id": 3,
+      "name": "Aishu",
+      "city": "Hosur",
+      "mobile": "9344135419"
+    },
+    {
+      "id": 4,
+      "name": "kiran",
+      "city": "Hosur",
+      "mobile": "9566549099"
+    },
+    {
+      "id": 5,
+      "name": "aishu",
+      "city": "banglore",
+      "mobile": "9876545567"
+    }
+  ]
+}
